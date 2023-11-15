@@ -9,8 +9,7 @@ cd "/media/jay/data/transfer/slm_package/slm"
 git add --all
 git commit -a -m 'initial commit'
 git pull github.slm master
-git push github.slm master
-password: 4fJH+s^irf39!jiD
+git push -u origin main
 
 #to see an earlier version
 cd "/media/jay/ExtraDrive1/FPBK/FPBKForestpack"
